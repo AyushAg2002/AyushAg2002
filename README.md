@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVkYTRkMjllZDQxNjFhODJhZmY5Nzc3MjYyOTIwY2Y2Nzk3Yjg2ZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVkYTRkMjllZDQxNjFhODJhZmY5Nzc3MjYyOTIwY2Y2Nzk3Yjg2ZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushag2002&label=Profile%20views&color=0e75b6&style=flat" alt="ayushag2002" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ayushag46169347" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushag46169347?logo=twitter&style=for-the-badge" alt="@ayushag46169347" /></a> </p>
+
 
 - 🔭 I’m currently working on **Youtube Transcript Summarizer**
 
