@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Youtube Transcript Summarizer**
+- 🔭 I’m currently working on **Whatsapp Chat Engine(tech stack-Nodejs,SocketIo)**
 
-- 🌱 I’m currently learning **Web Development , Data Structure and Algorithm**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 💬 Ask me about **Web Development,MERN**
 
-- 📫 How to reach me **ayushag11102002@gmail.com**
+- 📫 How to reach me **iamayushagrawal2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
